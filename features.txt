@@ -1,1 +1,2 @@
 Version 1.0 features added.
+Version 2.0 features added.
